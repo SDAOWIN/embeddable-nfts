@@ -1,6 +1,6 @@
 <img style="border-radius: 8px" src="assets/embedable-nfts.png" />
 
-
+<br /><br />
 <br /><br />
 
 # Embeddable NFTs
